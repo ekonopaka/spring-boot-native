@@ -1,4 +1,4 @@
-package com.example.springboot.service.dao;
+package com.example.springboot.service.dto;
 
 import com.example.springboot.model.Order;
 

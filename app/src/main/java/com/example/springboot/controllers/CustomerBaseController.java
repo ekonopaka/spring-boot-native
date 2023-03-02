@@ -2,8 +2,8 @@ package com.example.springboot.controllers;
 
 import com.example.springboot.service.OrdersService;
 import com.example.springboot.service.UserService;
-import com.example.springboot.service.dao.OrderDto;
-import com.example.springboot.service.dao.UserDto;
+import com.example.springboot.service.dto.OrderDto;
+import com.example.springboot.service.dto.UserDto;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
